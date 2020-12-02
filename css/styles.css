@@ -10538,3 +10538,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   border: thin solid #bbb;
   border-radius: 4px;
 }
+
+.project-images-preview {
+  max-height: 150px;
+  overflow: hidden;
+}
